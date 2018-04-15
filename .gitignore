@@ -1,0 +1,5 @@
+*__pycache__
+train_log
+ILSVRC2012
+imagenet_utils.py
+
